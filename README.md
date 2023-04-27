@@ -32,9 +32,9 @@ Profile visitors
 - Python <p align="center">
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"  height="136"></p>
 - Science <p align="center">
-   <img src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="180"  height="80"></p>
+   <img src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="250"  height="180"></p>
 - Sport <p align="center">
-   <img src="https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif" width="180"  height="80"></p>
+   <img src="https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif" width="250"  height="180"></p>
    
    ### 🤝🏻 &nbsp;Connect with Me
 
