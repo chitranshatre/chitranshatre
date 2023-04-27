@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on OpenFOAM dev
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ML Project, OpenFOAM projects,CFD simulations.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about My work, Physics, CFD simulations and xperiments.
 - 📫 How to reach me: my Email: chitransh.atre@gmail.com / am19d017@smail.iitm.ac.in
@@ -29,7 +29,7 @@ Profile visitors
 </p>
 
    ### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
    
    ### 🤝🏻 &nbsp;Connect with Me
