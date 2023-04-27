@@ -30,7 +30,7 @@ Profile visitors
 
    ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-
+- Science <iframe src="https://giphy.com/embed/OnJLRvXvAmvPW" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tired-OnJLRvXvAmvPW">via GIPHY</a></p>
    
    ### 🤝🏻 &nbsp;Connect with Me
 
