@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chitransh-atre&repo=github-readme-stats)](https://github.com/chitransh-atre/github-readme-stats)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshatre&exclude_repo=github-readme-stats,chitranshatre.github.io)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshatre&exclude_repo=github-readme-stats,chitranshatre.github.io)
 
 Profile visitors
 <h3><p align="center">Total Profile Visit: since 02.05.2019</p>
@@ -29,9 +29,13 @@ Profile visitors
 </p>
 
    ### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"  height="300">
-- Science <img src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="480"  height="336">
-  
+- Python <p align="center">
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"  height="136"></p>
+- Science <p align="center">
+   <img src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="180"  height="36"></p>
+- Sport <p align="center">
+   <img src="https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif" width="180"  height="36"></p>
+   
    ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
