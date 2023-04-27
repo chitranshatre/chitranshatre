@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OpenFOAM dev
+- 🔭 I’m currently working on OpenFOAM dev, Technology dev. Pls ask me to know about my work details.
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ML Project, OpenFOAM projects,CFD simulations.
 - 🤔 I’m looking for help with ...
