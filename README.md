@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about My work, Physics, CFD simulations and xperiments.
 - 📫 How to reach me: my Email: chitransh.atre@gmail.com / am19d017@smail.iitm.ac.in
 - 😄 Pronouns: He/Him
+- :heart: Love of my Life - <!--[@kanaksharma28](https://github.com/kanaksharma28)-->
 - ⚡ Fun fact: To be updated
 -->
 
@@ -45,7 +46,8 @@ Profile visitors
 <a href="https://www.linkedin.com/in/chitransh-atre/"><img src="https://img.shields.io/badge/-Chitransh%20ATre%20?style=flat&logo=Linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/chitransh_atre/"><img src="https://img.shields.io/badge/-@chitransh_atre-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
    <a href="https://www.facebook.com/aashu8881212/"><img src="https://img.shields.io/badge/-@Ashu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-   
+
+
 <!--<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
