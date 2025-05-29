@@ -1,56 +1,103 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on OpenFOAM dev, Technology dev. Pls ask me to know about my work details.
-- 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on ML Project, OpenFOAM projects,CFD simulations.
-- 🤔 I’m looking for someone/something that the presence of it give me peace.
-- 💬 Ask me about My work, Physics, CFD simulations and xperiments.
-- 📫 How to reach me: my Email: chitransh.atre@gmail.com / am19d017@smail.iitm.ac.in
-- 😄 Pronouns: He/Him
-- :heart: Love of my Life - <!--[@kanaksharma28](https://github.com/kanaksharma28)-->
-- ⚡ Fun fact: To be updated
--->
-
-<!---![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&hide=contribs,prs)
-
-![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&show_icons=true)-->
-
-![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitranshatre&theme=synthwave&show_icons=true)
-  <!--- ![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitranshatre&hide=contribs,prs&theme=gruvbox)-->
-
-<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chitransh-atre&repo=github-readme-stats)](https://github.com/chitransh-atre/github-readme-stats)-->
+# 🚀 Chitransh Atre - Computational Fluid Dynamics Enthusiast & ML Explorer
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshatre&exclude_repo=github-readme-stats,chitranshatre.github.io)-->
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=CFD+Engineer+%7C+OpenFOAM+Developer;Machine+Learning+Enthusiast;Physics
+## 🔬 About Me
 
-Profile visitors
-<h3><p align="center">Total Profile Visit: since 02.05.2019</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/chitransh-atre/count.svg"/>
-</p>
+Hey there! I'm a passionate **Computational Fluid Dynamics Engineer** who loves turning complex physics into elegant simulations. Currently diving deep into the intersection of traditional CFD and cutting-edge Machine Learning!
 
-   ### Things I love:
-- Python <p align="center">
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"  height="136"></p>
-- Science <p align="center">
-   <img src="https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif" width="250"  height="180"></p>
-- Sport <p align="center">
-   <img src="https://media.giphy.com/media/PkWQsSnYDeqWjaWpoo/giphy.gif" width="250"  height="180"></p>
-   
-   ### 🤝🏻 &nbsp;Connect with Me
+**My Current Stack:**
+- 🎯 **Focus:** OpenFOAM Development & ML Integration in CFD
+- 📚 **Learning:** Machine Learning & Advanced Numerical Methods  
+- 🤝 **Collaboration:** ML Projects, OpenFOAM Development, CFD Simulations
+- 🔍 **Seeking:** Meaningful connections and peaceful collaborations
+- 💡 **Expertise:** Physics, CFD Simulations, Experimental Design
+- 👤 **Pronouns:** He/Him
 
-<p align="center">
-<!--<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
-<a href="https://www.linkedin.com/in/chitransh-atre/"><img src="https://img.shields.io/badge/-Chitransh%20ATre%20?style=flat&logo=Linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/chitransh_atre/"><img src="https://img.shields.io/badge/-@chitransh_atre-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-   <a href="https://www.facebook.com/aashu8881212/"><img src="https://img.shields.io/badge/-@Ashu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+---
+
+## 🎯 Current Adventures
+
+- 🔭 **Working On:** OpenFOAM development & Technology innovation (Ask me for details!)
+- 🌱 **Learning:** Machine Learning applications in computational physics
+- 👯 **Open to Collaborate:** ML Projects, OpenFOAM development, CFD simulations
+- 🤔 **Seeking:** Peaceful collaborations and meaningful connections
+- 💬 **Let's Talk About:** Physics, CFD simulations, experimental design, and my latest projects
+- 📫 **Reach Me:** chitransh.atre@gmail.com | am19d017@smail.iitm.ac.in
+
+---
+
+## 📊 GitHub Analytics
 
 
-<!--<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
-</p>
+![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitranshatre&theme=synthwave&show_iconsat Spark Joy
+
+
+
+
+
+### 🐍 Python Magic
+
+
+
+
+
+
+
+### 🔬 Science Wonder
+
+
+
+
+
+
+
+### ⚽ Sports Energy
+
+
+
+
+
+
+
+
+---
+
+## 🌐 Let's Connect & Collaborate!
+
+
+
+[![LinkedIn](https://img.shields.io/badge](https://img.shields.io/badgetps://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=whiten="center">
+
+### 👁️ Profile Visitors
+**Total visits since May 2, 2019**
+
+
+
+---
+
+*"In the world of fluid dynamics, every turbulence tells a story, and every simulation reveals a truth."*
+
+⭐ **Fun Fact:** Currently updating my collection of interesting discoveries!
+
+
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgN1YxN0wxMiAyMkwyIDE3VjdMMTIgMloiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVbadge/-Machine%20Learning-FF6F00?style=flat-square&logo=badge/-CFD%20Simulations-4CAF50?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgN1YxN0wxMiAyMkwyIDE3VjdMMTIgMloiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor:**
+- ✅ This is **pure Markdown** - copy and paste directly into your README.md
+- ✅ All animations and badges will work on GitHub
+- ✅ No Python code execution needed
+- ✅ Interactive elements like typing animation and visitor counter will function
+- ✅ Professional yet engaging presentation
+
+Just copy this entire text and paste it into your GitHub README.md editor!
+
+---
+Answer from Perplexity: pplx.ai/share
