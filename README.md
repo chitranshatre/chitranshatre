@@ -4,8 +4,9 @@
 - 💬 Ask me about My work, Physics, CFD simulations and Xperiments.
 - 📫 How to reach me: my Email: chitransh.atre@gmail.com / am19d017@smail.iitm.ac.in
 - 😄 Pronouns: He/Him
-<!--- :heart: Love of my Life - <!--[@kanaksharma28](https://github.com/kanaksharma28)-->
 - ⚡ Fun fact: We dance round in a ring and suppose, But the Secret sits in the middle and knows
+<!--- :heart: Love of my Life - <!--[@kanaksharma28](https://github.com/kanaksharma28)-->
+
 -->
 
 <!---![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh-atre&hide=contribs,prs)
