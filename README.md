@@ -1,8 +1,7 @@
 - 🔭 I’m currently working on OpenFOAM dev, Technology dev. Pls ask me to know about my work details.
-- 🌱 I’m currently learning ML
+- 🌱 I am also working in PINNs. 
 - 👯 I’m looking to collaborate on ML Project, OpenFOAM projects,CFD simulations.
-- 🤔 I’m looking for someone/something that the presence of it give me peace.
-- 💬 Ask me about My work, Physics, CFD simulations and xperiments.
+- 💬 Ask me about My work, Physics, CFD simulations and Xperiments.
 - 📫 How to reach me: my Email: chitransh.atre@gmail.com / am19d017@smail.iitm.ac.in
 - 😄 Pronouns: He/Him
 - :heart: Love of my Life - <!--[@kanaksharma28](https://github.com/kanaksharma28)-->
